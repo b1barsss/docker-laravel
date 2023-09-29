@@ -53,5 +53,5 @@ services:
     entrypoint: ["php", "/var/www/laravel/artisan"]
 
 volumes:
-  pgsql_data:
+#  pgsql_data:
   mysql_data:
